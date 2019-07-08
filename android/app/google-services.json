@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958579955129",
+    "firebase_url": "https://budgetshareapp.firebaseio.com",
+    "project_id": "budgetshareapp",
+    "storage_bucket": "budgetshareapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958579955129:android:1d7058a5292a58cd",
+        "android_client_info": {
+          "package_name": "com.skks.budgetshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958579955129-20ael4qga1v0ggihcq6r38b32l84bp6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMsw3UM0QL7x5Xazxg8YgxWg7yhumeaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958579955129-20ael4qga1v0ggihcq6r38b32l84bp6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
